@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shailesh-prajapat
 - 👀 I’m interested in programming and digital marketing 
-- 🌱 I’m graduate in  bachelor of computer application(BCA)
+- 🌱 I’m graduate in University of Technology in(Jaipur)bachelor of computer application(BCA)
 - 💞️ I’m looking to collaborate on programming and digital marketing 
 - 📫 How to reach me 
 
