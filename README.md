@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shailesh-prajapat
-- 👀 I’m interested in programming and graphic design
+- 👀 I’m interested in programming and digital marketing 
 - 🌱 I’m graduate in  bachelor of computer application(BCA)
-- 💞️ I’m looking to collaborate on programming and graphic design
+- 💞️ I’m looking to collaborate on programming and digital marketing 
 - 📫 How to reach me 
 
 <!---
